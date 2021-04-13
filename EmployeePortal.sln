@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePortal", "EmployeePortal\EmployeePortal.csproj", "{8D97CC6E-8790-4CC0-BA89-CEF4D5ED4E27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{9281607B-F960-4792-9AD5-35C4D817EF11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D97CC6E-8790-4CC0-BA89-CEF4D5ED4E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D97CC6E-8790-4CC0-BA89-CEF4D5ED4E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D97CC6E-8790-4CC0-BA89-CEF4D5ED4E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D97CC6E-8790-4CC0-BA89-CEF4D5ED4E27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9281607B-F960-4792-9AD5-35C4D817EF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9281607B-F960-4792-9AD5-35C4D817EF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9281607B-F960-4792-9AD5-35C4D817EF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9281607B-F960-4792-9AD5-35C4D817EF11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79BC869D-931D-4087-AA20-63D6CB8ED0B4}
+	EndGlobalSection
+EndGlobal

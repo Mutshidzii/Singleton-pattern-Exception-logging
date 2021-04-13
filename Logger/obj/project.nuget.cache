@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "70YNqW9qKgIkEeRqnqtoCfAFw4q4dOiPvHCR3HyesUHdKpiOa195K2dVRUrPeuD6JMPl3wG3h51XZxMfYdARXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mutshidzi nikola\\Dropbox\\My PC (LAPTOP-CNCK9Q2K)\\Documents\\Design Patterns\\EmployeePortal\\Logger\\Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mutshidzi nikola\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mutshidzi nikola\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\Mutshidzi nikola\Dropbox\My PC (LAPTOP-CNCK9Q2K)\Documents\Design Patterns\EmployeePortal\Logger\bin\Debug\netstandard2.0\Logger.deps.json
+C:\Users\Mutshidzi nikola\Dropbox\My PC (LAPTOP-CNCK9Q2K)\Documents\Design Patterns\EmployeePortal\Logger\bin\Debug\netstandard2.0\Logger.dll
+C:\Users\Mutshidzi nikola\Dropbox\My PC (LAPTOP-CNCK9Q2K)\Documents\Design Patterns\EmployeePortal\Logger\bin\Debug\netstandard2.0\Logger.pdb
+C:\Users\Mutshidzi nikola\Dropbox\My PC (LAPTOP-CNCK9Q2K)\Documents\Design Patterns\EmployeePortal\Logger\obj\Debug\netstandard2.0\Logger.csprojAssemblyReference.cache
+C:\Users\Mutshidzi nikola\Dropbox\My PC (LAPTOP-CNCK9Q2K)\Documents\Design Patterns\EmployeePortal\Logger\obj\Debug\netstandard2.0\Logger.AssemblyInfoInputs.cache
+C:\Users\Mutshidzi nikola\Dropbox\My PC (LAPTOP-CNCK9Q2K)\Documents\Design Patterns\EmployeePortal\Logger\obj\Debug\netstandard2.0\Logger.AssemblyInfo.cs
+C:\Users\Mutshidzi nikola\Dropbox\My PC (LAPTOP-CNCK9Q2K)\Documents\Design Patterns\EmployeePortal\Logger\obj\Debug\netstandard2.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Mutshidzi nikola\Dropbox\My PC (LAPTOP-CNCK9Q2K)\Documents\Design Patterns\EmployeePortal\Logger\obj\Debug\netstandard2.0\Logger.dll
+C:\Users\Mutshidzi nikola\Dropbox\My PC (LAPTOP-CNCK9Q2K)\Documents\Design Patterns\EmployeePortal\Logger\obj\Debug\netstandard2.0\Logger.pdb
